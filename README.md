@@ -27,14 +27,14 @@ determines priority tier:
 - **Prioritize second** — score 15–19
 - **Longer horizon** — score ≤ 14
 
-Practices in the "longer horizon" tier are not unimportant — they require a different 
+Practices in the "longer horizon" tier are not unimportant, yet they require a different 
 adopter population (e.g., state legislature, NHTSA, city planners) or a longer institutional 
 runway. Click any row in the tool to see the full scoring rationale and NCHRP 
 practitioner data for that practice.
 
 ## Sources
 
-**Rogers scores:** LaJeunesse & Claude (Anthropic), 2025. Adopter population: U.S. 
+**Rogers scores:** LaJeunesse, S. (2025). Adopter population: U.S. 
 road safety practitioner (multi-sector).
 
 **NCHRP practitioner ratings:** National Academies of Sciences, Engineering, and 
@@ -49,4 +49,4 @@ Free Press.
 
 Developed by Seth LaJeunesse, Senior Researcher, 
 [UNC Highway Safety Research Center](https://hsrc.unc.edu), 
-in collaboration with Claude (Anthropic).
+in consultation with Claude (Anthropic).
