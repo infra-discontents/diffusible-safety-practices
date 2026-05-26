@@ -15,7 +15,7 @@ professional sectors, scores are averaged across sectors.
 
 ## Use the tool
 
-[Open the interactive explorer →](https://sethlaj.github.io/diffusible-safety-practices/)
+[Open the interactive explorer →](https://infra-discontents.github.io/diffusible-safety-practices/)
 
 ## What the tool shows
 
